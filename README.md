@@ -1,7 +1,7 @@
 
 # AIcar
 
-massivefile.com - AIcar is a re-enforcement learning representation inside a canvas. The car learns by making mistakes. More the epoch, more the car learns from a random generated map.
+massivefil.com - AIcar is a re-enforcement learning representation inside a canvas. The car learns by making mistakes. Higher the generation, more the car learns from a random generated map.
 
 demo - please visit https://massivefile.com/AIcar
 
