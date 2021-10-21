@@ -8,4 +8,4 @@ demo - please visit https://massivefile.com/AIcar
 # preview - ![https://massivefile.com/aicar](https://github.com/karan36k/aicar/blob/main/img-11.png?raw=true)
 
 
-This project is inspired from Mr Daniel Shiffman. his website - https://shiffman.net/
+This project is inspired from Mr Daniel Shiffman.
