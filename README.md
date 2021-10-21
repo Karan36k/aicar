@@ -5,7 +5,7 @@ massivefil.com - AIcar is a re-enforcement learning representation inside a canv
 
 demo - please visit https://massivefile.com/AIcar
 
-# preview - ![https://massivefile.com/aicar](https://github.com/karan36k/aicar/blob/main/img-27.PNG?raw=true)
+# preview - ![https://massivefile.com/aicar](https://github.com/karan36k/aicar/blob/main/img-11.PNG?raw=true)
 
 
 This project is inspired from Mr Daniel Shiffman. his website - https://shiffman.net/
